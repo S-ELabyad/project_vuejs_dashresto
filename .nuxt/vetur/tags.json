@@ -1,0 +1,23 @@
+{
+  "AddMenu": {
+    "description": "Auto imported from components/addMenu.vue"
+  },
+  "Bank": {
+    "description": "Auto imported from components/bank.vue"
+  },
+  "CardDash": {
+    "description": "Auto imported from components/CardDash.vue"
+  },
+  "Dash21": {
+    "description": "Auto imported from components/dash21.vue"
+  },
+  "Drawer": {
+    "description": "Auto imported from components/drawer.vue"
+  },
+  "Order": {
+    "description": "Auto imported from components/order.vue"
+  },
+  "Test": {
+    "description": "Auto imported from components/test.vue"
+  }
+}

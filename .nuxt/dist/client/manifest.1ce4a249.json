@@ -1,0 +1,9 @@
+{
+  "name": "dash-resto",
+  "short_name": "dash-resto",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en"
+}

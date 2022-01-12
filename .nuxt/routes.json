@@ -1,0 +1,86 @@
+[
+  {
+    "name": "ch___en",
+    "path": "/ch",
+    "component": "C:\\\\Users\\\\SALOUA\\\\Desktop\\\\dash-test\\\\pages\\\\ch.vue",
+    "chunkName": "pages/ch",
+    "_name": "_804ce2d0"
+  },
+  {
+    "name": "index___es",
+    "path": "/es",
+    "component": "C:\\\\Users\\\\SALOUA\\\\Desktop\\\\dash-test\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_8a48c322"
+  },
+  {
+    "name": "index___fr",
+    "path": "/fr",
+    "component": "C:\\\\Users\\\\SALOUA\\\\Desktop\\\\dash-test\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_8a48c322"
+  },
+  {
+    "name": "i___en",
+    "path": "/i",
+    "component": "C:\\\\Users\\\\SALOUA\\\\Desktop\\\\dash-test\\\\pages\\\\i.vue",
+    "chunkName": "pages/i",
+    "_name": "_0ead9d06"
+  },
+  {
+    "name": "inspire___en",
+    "path": "/inspire",
+    "component": "C:\\\\Users\\\\SALOUA\\\\Desktop\\\\dash-test\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_1acc9192"
+  },
+  {
+    "name": "ch___es",
+    "path": "/es/ch",
+    "component": "C:\\\\Users\\\\SALOUA\\\\Desktop\\\\dash-test\\\\pages\\\\ch.vue",
+    "chunkName": "pages/ch",
+    "_name": "_804ce2d0"
+  },
+  {
+    "name": "i___es",
+    "path": "/es/i",
+    "component": "C:\\\\Users\\\\SALOUA\\\\Desktop\\\\dash-test\\\\pages\\\\i.vue",
+    "chunkName": "pages/i",
+    "_name": "_0ead9d06"
+  },
+  {
+    "name": "inspire___es",
+    "path": "/es/inspire",
+    "component": "C:\\\\Users\\\\SALOUA\\\\Desktop\\\\dash-test\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_1acc9192"
+  },
+  {
+    "name": "ch___fr",
+    "path": "/fr/ch",
+    "component": "C:\\\\Users\\\\SALOUA\\\\Desktop\\\\dash-test\\\\pages\\\\ch.vue",
+    "chunkName": "pages/ch",
+    "_name": "_804ce2d0"
+  },
+  {
+    "name": "i___fr",
+    "path": "/fr/i",
+    "component": "C:\\\\Users\\\\SALOUA\\\\Desktop\\\\dash-test\\\\pages\\\\i.vue",
+    "chunkName": "pages/i",
+    "_name": "_0ead9d06"
+  },
+  {
+    "name": "inspire___fr",
+    "path": "/fr/inspire",
+    "component": "C:\\\\Users\\\\SALOUA\\\\Desktop\\\\dash-test\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_1acc9192"
+  },
+  {
+    "name": "index___en",
+    "path": "/",
+    "component": "C:\\\\Users\\\\SALOUA\\\\Desktop\\\\dash-test\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_8a48c322"
+  }
+]
